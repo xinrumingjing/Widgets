@@ -60,5 +60,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         viewPager.addOnPageChangeListener(indicatorView);
+
+        //master branch changes
     }
 }
