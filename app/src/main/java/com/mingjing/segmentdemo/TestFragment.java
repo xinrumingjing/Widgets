@@ -30,5 +30,7 @@ public class TestFragment extends Fragment {
         fragment.setArguments(data);
 
         return fragment;
+
+        //master branch changes
     }
 }
